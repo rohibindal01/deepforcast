@@ -138,15 +138,3 @@ deepforecast/
 └── .streamlit/
     └── config.toml
 ```
-
----
-
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only**. Stock price forecasting is inherently uncertain. Do not use model outputs as financial advice.
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
