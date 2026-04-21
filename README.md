@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13%2B-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
